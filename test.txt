@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 afds ds da
 fdsa d
 By master branch
@@ -6,6 +5,5 @@ afdsa dsdsd sa
 fdsdad
 by master branch
 by development branch
-
->>>>>>> development
+MERGED
 
